@@ -1,0 +1,16 @@
+---
+title: "About me"
+author: "Wenzhao Wu"
+date: "11/4/2020"
+output: html_document
+---
+
+# This page has information about me.
+
+What if I add some text here...?
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Here's a subsection
+
+And here's some additional text...
