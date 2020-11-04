@@ -11,4 +11,4 @@ navbar:
       href: http://github.com/wwzoey/
 output:
   html_document:
-    theme: cerulean
+    theme: lumen
